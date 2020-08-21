@@ -1,1 +1,1 @@
-# devops_aula01
+Esse repositorio é o primeiro da vida, aula de Devops
